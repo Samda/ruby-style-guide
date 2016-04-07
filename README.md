@@ -1,6 +1,6 @@
 # សេចក្តីផ្តើម
 
-> Role models are important. <br>
+> គំរូគឺមានសារូគឺជាកត្តាចប្បង។<br>
 > -- Officer Alex J. Murphy / RoboCop
 
 One thing has always bothered me as a Ruby developer - Python developers have a
