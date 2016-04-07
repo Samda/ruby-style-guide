@@ -1,8 +1,9 @@
 # សេចក្តីផ្តើម
 
-> គំរូគឺមានសារូគឺជាកត្តាចប្បង។<br>
+> គំរូគឺជាកត្តាចប្បង។<br>
 > -- Officer Alex J. Murphy / RoboCop
 
+រឿងមួយដែលបងប្អូនដែលជាអ្នកប្រើប្រាស់ភាសា Ruby
 One thing has always bothered me as a Ruby developer - Python developers have a
 great programming style reference
 ([PEP-8][]) and we never got an official
