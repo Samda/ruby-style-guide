@@ -3,14 +3,10 @@
 > គំរូគឺជាកត្តាចប្បង។<br>
 > -- Officer Alex J. Murphy / RoboCop
 
-រឿងមួយដែលបងប្អូនដែលជាអ្នកប្រើប្រាស់ភាសា Ruby
-One thing has always bothered me as a Ruby developer - Python developers have a
-great programming style reference
-([PEP-8][]) and we never got an official
-guide, documenting Ruby coding style and best practices. And I do believe that
-style matters. I also believe that a great hacker community, such as Ruby has,
-should be quite capable of producing this coveted document.
+រឿងមួយដែលតែងតែធ្វើអោយអារម្មណ៍ខ្ញុំមិនបានស្ងប់គឺ ក្រុមអ្នកដែលប្រើប្រាស់ភាសា Python ពួកគេមានគូរពីរបៀបនៃការសរសេរកូដដ៏ល្អ ([PEP-8][]) ហើយពួកយើងគ្មានដូចគេទេពីរគំរូពីរបៀបនៃការសរសេរកូដ។ ហើយខ្ញំុជឿជាក់ថាបញ្ហពីរបៀបនៃការសរសេសេរកូដហើយខ្ញំុក៏ជឿជាក់ដែរថា
+សហគមន៍នៃអ្នកប្រើប្រាស់ភាសា Ruby ដែលមានសមត្ថភាពពិតនឹងជួយធ្វើអោយគំរូនៃររៀបសរសេរកូដមួយនេះបានប្រសើឡើង។
 
+គំរូពីរបៀបនៃការសរសេរកូដមួយនេះវាបានចាប់ផ្តើមឡើងដោយពីរបៀបនៃការសរសេរនៃក្រុមហ៊ុន
 This guide started its life as our internal company Ruby coding guidelines
 (written by yours truly). At some point I decided that the work I was doing
 might be interesting to members of the Ruby community in general and that the
